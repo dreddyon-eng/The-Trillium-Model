@@ -1,0 +1,6 @@
+{
+  "name": "Trillium Model Knowledge Base",
+  "description": "An interactive knowledge base to explore the Trillium Model report. Read, search, get summaries, ask questions, and take a quiz.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
